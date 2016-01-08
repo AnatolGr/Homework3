@@ -1,0 +1,17 @@
+C:\Users\Expert\Desktop\шарп\HomeworkNumber\View\bin\Debug\View.exe.config
+C:\Users\Expert\Desktop\шарп\HomeworkNumber\View\bin\Debug\View.exe
+C:\Users\Expert\Desktop\шарп\HomeworkNumber\View\bin\Debug\View.pdb
+C:\Users\Expert\Desktop\шарп\HomeworkNumber\View\bin\Debug\Model.dll
+C:\Users\Expert\Desktop\шарп\HomeworkNumber\View\bin\Debug\Model.pdb
+C:\Users\Expert\Desktop\шарп\HomeworkNumber\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Expert\Desktop\шарп\HomeworkNumber\View\obj\Debug\View.exe
+C:\Users\Expert\Desktop\шарп\HomeworkNumber\View\obj\Debug\View.pdb
+E:\доки\homework3\HomeworkNumber\View\bin\Debug\View.exe.config
+E:\доки\homework3\HomeworkNumber\View\obj\Debug\View.exe
+E:\доки\homework3\HomeworkNumber\View\obj\Debug\View.pdb
+E:\доки\homework3\View\bin\Debug\View.exe.config
+E:\доки\homework3\View\obj\Debug\View.exe
+E:\доки\homework3\View\obj\Debug\View.pdb
+C:\Users\Expert\Documents\GitHubVisualStudio\Homework3\View\bin\Debug\View.exe.config
+C:\Users\Expert\Documents\GitHubVisualStudio\Homework3\View\obj\Debug\View.exe
+C:\Users\Expert\Documents\GitHubVisualStudio\Homework3\View\obj\Debug\View.pdb
